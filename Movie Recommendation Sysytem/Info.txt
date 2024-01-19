@@ -1,0 +1,2 @@
+Hello there, This is one of the three projects for my AI internship at SkyBug Technologies. 
+Dataset used is "TMDB 5000 movies" along with their credits dataset. Those are not uploaded in this repo but you can download it from kaggle
