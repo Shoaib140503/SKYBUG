@@ -1,0 +1,5 @@
+Hello there, This is one of the three projects for my AI internship at SkyBug Technologies. 
+Dataset used is "TMDB 5000 movies" along with their credits dataset. Those are not uploaded in this repo but you can download it from kaggle
+There was one more ".pkl" file which contained cosine similarity value of each movie with every other movie. This file very crucial to have in order to run the code.
+Since, the size of the file was more than 100MB, it didn't got uploaded into this repository.
+But, if you have the dataset, you can create the ".pkl" files by following the code in "movies.ipynb" file.
